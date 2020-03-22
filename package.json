@@ -1,0 +1,22 @@
+{
+  "name": "covid19-workspace",
+  "version": "1.0.0",
+  "description": "This project is a dashboard of data from Johns Hopkins University, using Elasticsearch and Kibana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourepena/covid19-dashboard.git"
+  },
+  "keywords": [
+    "covid19"
+  ],
+  "author": "Youre Pena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourepena/covid19-dashboard/issues"
+  },
+  "homepage": "https://github.com/yourepena/covid19-dashboard#readme"
+}
